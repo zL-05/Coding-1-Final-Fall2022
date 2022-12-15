@@ -1,0 +1,22 @@
+.home{
+    background-color: orange;
+}
+.about{
+    background-color: red;
+}
+.contact{
+    background-color: aqua;
+}
+h5{
+    font-size: xx-large;
+}
+p{
+    font-weight: 500;
+}
+.btn{
+    color:purple;
+    background-color: orange;
+}
+h2{
+    color: white;
+}
